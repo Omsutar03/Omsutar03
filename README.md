@@ -9,6 +9,13 @@
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat&logo=render&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=flat&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=flat&logo=Qt&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
+
+# 📜 Certifications:
+* ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) **Programming with C and C++ with AI** | [View Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=4uzyzm6mdto)
+* ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) **Programming with Python with AI** | [View Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=2n7qj4r5mhk)
+* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) **Core Java with AI** | [View Certificate](https://trainings.internshala.com/verify-certificate/?certificate_number=drkxfyo50u3)
+
+
 # Leetcode Stats:
 <p align="center">
   <a href="https://leetcode.com/u/OmSutar03/">
@@ -19,6 +26,7 @@
     <img src="https://leetcard.jacoblin.cool/Omsutar03?theme=transparent&font=Tomorrow&colors=%230d1117%2C%230d1117%2C%2361dafb%2C%23ffffff%2C%2361dafb%2C%2328c244%2C%23ffb700%2C%23f63737&ext=heatmap" align="center" />
   </a>
 </p>
+
 
 # 📊 GitHub Stats:
 <p align="center">
