@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 MSc Software Development @ University of Glasgow, UK<br>🔧 Working on AI agent that'll work well with local models even on non-GPU devices.<br>🌍 Open to collaborating on cross-platform or system-level software<br>💡 Interested in systems programming, network tooling, and open-source development
+🎓 MSc Software Development @ University of Glasgow, UK<br>🔧 Working on AI agent that'll work well with local models even on potato PCs.<br>🌍 Open to collaborating on cross-platform or system-level software<br>💡 Interested in systems programming, network tooling, and open-source development
 
 
 ## 🌐 Socials:
